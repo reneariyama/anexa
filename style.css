@@ -3759,7 +3759,7 @@ body:not(.top-search-open) .top-search-parent #primary-menu-trigger {
 
 .menu-item:hover > .menu-link,
 .menu-item.current > .menu-link {
-	color: #b28b8d;
+	color: #c59400;
 }
 
 .menu-item.sub-menu > .menu-link > div { }
